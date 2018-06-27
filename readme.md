@@ -1,5 +1,5 @@
 # Find Extensions - Parse and Extract Unique Extensions
-While performaing site assessments, we may encounter situations where we need to find extensions that are not accounted in the caching rules. Using this python program, the list of extensions can be extracted.
+While performing site assessments, we may encounter situations where we need to find extensions that are not accounted in the caching rules. Using this python program, the list of extensions can be extracted.
 
 ## Usage
 Simply run the command on terminal and pass the file containing list of urls with the `--file` option. The list of URLs can either be a plain-text file or it can be a gzip compressed file.
